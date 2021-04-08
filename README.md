@@ -1,1 +1,1 @@
-# Youtube-concept
+# Youtube-concept - учебный проект Glo-academy
